@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+dedeadded new pick
+=======
+atest dded new pick
+>>>>>>> test
